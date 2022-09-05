@@ -5,7 +5,7 @@ A simple framework in python to create multi page web application using streamli
 
 1. Clone the repository:
 ```
-$ git clone git@github.com:karlotimmerman/streamlit-multiapps
+$ git clone https://github.com/karlotimmerman/streamlit-multiapps.git
 $ cd streamlit-multiapps
 ```
 
